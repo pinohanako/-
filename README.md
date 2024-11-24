@@ -41,7 +41,7 @@
 - **Общий вывод:**
   - Проанализированы полученные результаты, выделены сильные факторы, влияющие на вероятность невыплаты кредита для каждой из моделей, автоматически найдены лучшие гиперпараметры.
 
-![Результаты обучения]([https://github.com/jon/coolproject/raw/master/image/image.png](https://github.com/pinohanako/estimating-pd/blob/main/figures/%D0%92%D1%81%D0%B5%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B.jpg))
+![Результаты обучения](https://github.com/jon/coolproject/raw/master/image/image.png](https://github.com/pinohanako/estimating-pd/blob/main/figures/%D0%92%D1%81%D0%B5%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B.jpg)
 
 ### Используемые технологии
 - Python
